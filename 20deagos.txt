@@ -1,0 +1,412 @@
+otro Claudio nuevo un paudo?
+
+paudita?
+
+de adentro medio lo mismo de casa
+tipo encapsulado
+
+lo que te hablaban no quería
+porque, algo ya les falla masque nada eso
+
+porque lo quieren obligar, pero se les juega un toque
+
+para mi es eso.
+
+yo no. medio virtua si me pego tamb.
+
+y otra vez el buzo de acdc
+
+pero en casa estaba bueno.
+
+Clase 4
+
+hoy paradigma?
+
+ese tuyo ya no anda
+
+y ovbio ya no puedo
+
+mejor que se recorra con métodos
+
+oque se autorrecorra
+
+ej trim, Split, 
+
+clase entorno
+recorrer gralizar
+
+clases son sustantivos 
+de esta aula un software
+
+que hay?
+alumno encuentro la clase en sing
+alumno
+
+base no vale a objetos ni viceversa
+
+aca modelado de objetos en memoria
+
+herencia a base no es bueno
+
+foreign key a objetos no es bueno
+
+herramientas 
+patron dado 
+1drm
+
+alumno 
+pc
+ventana
+mouse
+
+objetos esta grabado
+
+clase 1
+para los que falten, lo graba
+
+canal críos java objetos parte 1 YouTube 171 videos parte 1
+materiales
+
+video tutoriales
+
+parte1 
+
+parte 2 swing y parte 3 
+
+parte 4 también 
+advanced
+
+sube al GitHub
+
+readme md
+
+links para no perderse o recuperar
+
+objetos tarde
+
+en la portada del GitHub
+
+parte 1 presentación uso de NetBeans
+tipo de datos
+
+a partir del 17
+hasta el 25
+
+clase es todo lo que sea sustantivo
+
+análisis semántico de oraciones
+
+sustantivos adjetivo verbos sujeto y predicado
+
+verbo o accion metodo
+atributo adjetivo
+
+clase en un archivo igual
+singular mayus
+
+auto. java
+
+poo podría ser programación de clases
+
+declaración
+
+dentro tiene atributos y métodos
+
+las clases definen los atributos y 
+los objetos
+le ponen estado
+
+atributo color
+marca
+modelo 
+
+clase Auto
+
+esa que onda
+medio laborado
+pero exigido
+
+10 autos marca modelo color
+
+1 objeto por cada auto
+
+atributos tienen un tipo de datos definido
+caco
+caco un toque juega para medio de arriba ser el que asesina?
+
+son var contenidas en una clase y describen a la clase
+
+métodos son verbos
+saltar correr acelerar
+un negocio cliente compra
+artículos
+
+cliente y artículos
+y comprar
+
+puede haber entrada y salida
+void acelerar {
+	velocidad+=10;
+}
+con el atributo que cambia
+entre{ +=
+
+yo hecho a uno que se me manda
+y era el que contenia a todos el grupo
+pero entro como buchon de mi gran calidad
+echarlo estuvo facho
+
+un objeto es una instancia particular de la clase y tiene estado propio
+
+clase auto y hay 10 autos
+creo 1 por cad auto
+
+tiene cada uno un estado propio
+el estado es el valor de los atributos propio
+
+antes de crear objeto jugar con el PowerPoint
+uso impress
+clase rectángulo 
+circulo 
+triangulo
+
+creo círculos que son triangulos
+
+colores verde
+y es rojo
+
+si vos decis círculos perdiste
+
+existe la clase fantasma atributos color, 
+onda hacer 
+
+en videojuegos, mejor representación del paradigma
+
+sistema administrativo mas que nada en la persistencia o base de datos
+
+igual comprenderlo 
+bien!
+
+no es necesario ponerle triangulo mejor ponerle verde
+ubicación 
+
+usuario de las clases es los programadores creadores de PowerPoint
+
+el cojedor
+como cojio todo lo garcan
+ese tope de gama
+
+se puede ejecutar la que tiene main
+
+buisness significa asunto o negocio
+
+creo objeto 1
+Auto 1 tiene un estado
+un valor en sus atributos
+
+averiguar cual es el estado 
+imprimir estado auto1
+
+ahí es auto1= new auto
+imprimir
++auto1.atributo
+estado null null0
+
+ctrl es gol
+
+las variables no tienen una inicialización automática
+las var deben ser inicializadas
+para ser usadas
+
+los atributos tiene una inicialización automática
+
+yo nunca dije
+
+los atrib se inicializan en 0 
+los string en null
+
+ctrl click te muestra de donde es
+
+el boga la agita y vende el puñal critico e infumado
+
+subir algunos proyectos mas vende humo
+
+creo la variable y le pongo estado 
+después imprimo el estado
+
+la clase bicicleta puede tener el metodoacelerar
+estoy llamando al método de bicicleta
+porque el objeto es bicicleta
+
+entonces escribis esa forma adentor del método de una clase
+creo otro objeto de clase auto
+
+después los acelero
+
+acelero de una forma nueva
+
+va a 600 este auto y zafa un toque porque es una bestialidad
+con un for
+
+con el for ya no y que onda
+
+va a habaer un grupo de backend que es lo que ve
+
+en este caso es front end de consola 
+a web o mobile
+
+si soy del back
+veo que hay un mal uso para mi clase
+
+en diseño o cuando ya esta andando
+
+etcs puedo imponer reglas de negocios
+
+una cosa asi if velocidad mayor 100 
+
+a que no puedo ver no da tanto
+
+ya se freno un toque capas y zafaba un poco
+y me pegue y va a parecer otra vez que no hay paudita?
+
+método con param de entrada y con sobrecarga
+va a haber las 2 posibilidades
+jajajaj
+
+re mal tipo, claro
+
+voy a acelerar
+sobrecarga de métodos cuando existe métodos con el mismo nombre
+clase pasada
+no la anterior
+
+ya medio que no fuincnefo
+
+2 métodos con mismo nombre da error
+
+entonces diferrnetes parámetros de entrada
+se va el error
+
+velocidad += km
+vuelvo a auto1 y .aclerar 26
+
+hice un método mismo nombre con parámetros
+kilómetros
+
+2 métodos en j script no se puede hacer
+en los no tipados
+
+en poo
+
+el ide mustra la palabra kilómetros
+
+si no lo considero 
+agrego un comentario javadoc
+lo explica también.
+
+sobrecargando uno igual con otra firma
+
+a velocidad lo deja firmado.
+
+@param kilómetros definición de cantidad de velocidad 
+
+porque no salis a laburar? si nosotros somos medio medio
+
+control de velocidad es el int limitador con int sobrecargado
+método
+
+mantengo este método
+simplemente llama al otro método y le envia el 10 
+
+el problema es paudita hace perder
+
+ahí se gana en posta
+entonces se complica
+si se arma paudita entredicho
+
+se pierde al 100
+
+y asi de mal la pasamos
+la ironia también la ironizo
+y nos entredicha. entonces
+pierdo pobre efra.
+
+lo finito lo entredicha.
+
+no habría drama, pero hay otro perdido.
+que también duele, pauditamente.
+
+borrar este msje
+
+constructores 
+mismo nombre que la clase
+
+nisiquiera public auto()
+
+se va a ejecutar cuando se cree un objeto auto
+y van a ingresar  param para inicializr el objeto
+
+string marca string modelo
+string color
+
+en el (String marca
+usamos this
+this.color=color
+
+aparece el error
+
+en new auto
+no puedo decir es otra cosa
+
+cuando no hay un costructor java agrega uno vacio
+etcs agregue un paramétrico
+
+lo que voy a hacer es una sobrecarga y tamb crear uno vacio
+
+porque deja un objeto sin estado
+
+@deprecated
+
+esto ya lo considera viejo
+
+dos de un lado y uno bueno del otro.
+(los aritos)
+
+ya se empieza a complicar, medio no lpuedo tener apenas
+
+método con devolución de parámetros, 
+
+int obtenerVelocidad
+
+en vez de getters return velocidad;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
