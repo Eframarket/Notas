@@ -1,0 +1,107 @@
+source action 
+constructor
+todo click
+
+completo
+
+1 to string
+
+1 geters and seters
+
+ahí se pone medio técnico talcual elijamos uno rápido
+
+ese tuyo lo vi
+
+diagram foto
+
+start.spring.io
+Maven
+
+java
+
+jar o war? 
+ 
+dependencias 
+
+longbok
+
+el quiere ser el borrachito
+el pibe raro cuidado!
+
+el borracho dice que el era la mina que no nos chapamos
+es riesgosillo
+ perdón 
+
+carpeta nueva y en source 
+cuenta.java
+
+1 atributos
+2 constructor de numero y moneda
+
+saldo?
+
+ 3) tostring con todos marcados
+
+bueno igual crema de enjuage cuidado
+
+mira diagrama 
+hacer métodos
+
+meto
+
+igual es el proceso de gay a borracho
+y es ejempli aprendid, no lo sepas
+
+hacer prueba de la clase
+ejecut
+
+mal los packages porque no quedo bien el camino de las carpetas en carpetas
+
+que no import
+
+
+tranca, pero de iguala a ahí ya claudi
+
+versiones de java tienen que ser igual
+21
+pom XML
+Maven java igual
+
+va a aver 200 archivos, control
+
+pasarme adelante medida, no veo una goma
+hace años.
+
+marcos se va a comprar una play
+cliente persona 2 getcuenta único
+
+cuenta 400000
+
+debito 
+sout
+cliente persona 2
+6000000 va a tener marcos
+
+cliente persona 1
+claudia va a tener 600000
+
+se va a a ver reflejada una en la otra
+configurar 2 cuentas juntas
+(compartida)
+
+asique el chimborra y el viejo 
+una mas
+
+sout a esta hora es mas exigente
+
+la ultima no se ve clara.
+
+claro, desde este criterio es fácil ofrecer contrareidad 
+y darla por mala.
+
+
+
+
+
+
+
