@@ -1,0 +1,71 @@
+resolver diagrama con herencia uml diagrama 2
+
+claro el problema de esa pampeana es que se va a querer alejar,
+
+etcs 
+
+como empesar este diagrama?
+
+y assi ya listo
+
+vovlviendo a la pampeana me parece que estaria bueno claro jeje
+
+como testearlo?
+
+da medio sorpresivo tambien
+
+haber como se usa
+
+es un gpt con cambios los geterrs
+
+joya
+
+claro yo tambien una fotocopia por la pampeana.
+
+new file rectangulo en entities
+
+faltaba un tostring y lo engancha, parecido cambiado
+
+el package y el import en el test
+
+el usa envex de coso el math.hypot
+
+y tambien quiere meter al gordo salame y al decimal format
+
+el chiste de ella? ya no.
+
+por nuestra rel.
+
+etcs bueno
+
+todas son hijas de object
+
+Persona es una abstract classs no se puede crear obj
+
+si variabl
+
+polimorfismo
+
+get class getname getsuperclass
+
+java
+
+obj guardo hola
+obj es igual 
+p1
+n cliente
+
+contiene
+imrimir obj tien forma de 
+
+
+hashcode
+
+equals
+
+desde el porno en vida a esa realidad de hija novia mas piba
+
+
+
+
+
