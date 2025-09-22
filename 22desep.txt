@@ -84,7 +84,15 @@ querido y yo digamos
 
 mis anteojos.
 
-gap 2 justify content center  
+gap 2 justify content center 
+
+formulario que funcione con java 
+
+apruebo?
+
+la respuesta es cir
+
+function es una clase que ya tiene un metodo 
 
 
 
