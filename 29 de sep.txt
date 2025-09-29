@@ -1,0 +1,53 @@
+sql
+
+clase 20 parte 2
+
+restricciones de seguridad
+
+app es vulnerada responda
+
+frontend es siempre vulnerable eso
+thiymyleaf
+
+back end java
+base de datos ultima estapa
+
+worckbench database reverse selec colegio
+todo next creo el der
+
+diagrama der
+
+lo guarda como png
+
+carpeta docs la grega la foto
+
+tienen que tener para poder consultar
+
+sql lite
+
+base de datos interna con sql lite para apps android
+queda en un archivo
+
+opcion de sql lite
+
+base de datos muy limitada on problemas de seguridad
+
+necesitamos aprobar a todos
+incluido nuestros compañeros do central
+
+eso medio delirado
+
+errores a la ia
+
+oka lujo distinto.
+
+una clase que se encargue de conectar un solo cambio que impacte en todo el sistema
+
+busca las clases en java project
+
+maven dependencies
+
+claro medio segunda
+
+enum variable auto enumerada
+
