@@ -1,0 +1,132 @@
+bueno las contras bruscas, tengaan cuidado
+algo escucho que son positivas
+no, pero eso estuvo mal tambien
+un desastre.
+no, no podes arreglarlas
+
+bueno buen dia repositori 
+
+hola nuevo alumno repository
+copi pastea curso y actualizar
+
+
+nuevo TestAlumno Repository 
+con nuevo objeto alumno
+
+y su movida tranqui
+
+en carpeta test y en repositories7
+
+copia getall de curso a test 
+
+copia los otros de copia los remove y los otros get by id
+
+urso 
+
+ya fallan los import y no saca un error por rarpidez 
+
+crear carpetas css icons
+images y js
+
+la mañana fue esa tambien yo hago flaco tambien finita
+
+descargamos icono
+
+currentcolor dentro del archivo lo cambio con un text editor el ancho y el alto 
+
+bootstrap para hacerlo responsivo los links cdn
+
+despues abre un conteiner y lo llama fondo un a div class en lg fondo
+
+pregunta por una palleta de colores a la ia
+
+clase banner
+y .banner
+
+otras paginas mantenimiento alumnos cursos principal configuracion
+
+foto de portada
+
+y sistema de navegacion
+
+todo responsivo
+
+
+iguales
+
+o parecidas como un spa
+que me 
+
+en el container banner
+
+
+pega navbR
+
+saca tertiary y cambia el color
+
+nav class text primary 
+
+nav link active 
+href /
+
+hace un nav bar
+y cambia las etiquetas y edita el color de una no entra
+
+agrega reloj js
+
+lo pone en onload
+
+"body mueve reloj.
+
+posta es uno que los mata.
+
+actualiza reloj a seg de 2 digitos.
+
+hace tambien un . reloj en style 
+
+ya se lo ve el reloj de una con el style
+
+esa desconexion 
+
+le mete mano a todo
+
+text center en el list  del reloj
+
+poe .com
+
+cambia 
+
+se fija con la barrita de dispositivos tipo i fone
+
+hace un footer 
+
+inspeccionar icono de dimensiones
+
+en el main
+
+va a haber una pag para cursos 4 tipo las mias 
+
+como procede 
+
+1 que copia es el menu home 
+
+otro aarchivo que va a ser llamado en vez de hacer por 4
+
+template menu
+
+crea 4 index de cada solapa
+
+los tiene que autorizar en thymileaf
+
+en controladores 
+
+
+
+list item mas 
+
+
+
+
+
+
+
