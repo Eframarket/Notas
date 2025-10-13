@@ -1,0 +1,36 @@
+las notas ya son mis notas
+
+sacar las de bootstrap
+las de visual viejas
+las de java script
+
+persistencia test.repositorio
+
+interfaz grafica enciende servidor
+
+for each en tymyleaf 
+
+Tutorial de thymeleaf foreach objetos y colecciones.
+
+Inscribirse a 
+
+botones con colapso se acomodadn 
+
+empezar de vuelta.
+
+th:object tymeleaf
+
+ver de a 2 clases y calcular lo que agrega en una. OK
+
+no me acuerdo por ej 1 @requestparam
+
+formularios por @get
+
+striped
+
+
+
+
+
+
+
