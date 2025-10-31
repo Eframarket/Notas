@@ -1,0 +1,25 @@
+Em claro ya no se hace nada solo los trabajos obviamente 
+
+1 que eso no funca
+
+List Lista =new Arraylist();
+Lista.add( new Auto("Peugeot"
+
+to string vamos a sobreeescribir el comportamiento
+
+ahí lo dejo en el poe pero 
+
+se hace con sout el objeto y .tostring
+				y otra vez el sout auto3
+					faltaría el collector.
+Collector
+en Auto 1
+public String compare()
+		return marca+" "modelo+" "
+
+2 compare to(Auto o) return this.compare().compareTo(o.compare());
+
+for(object o:lista) system.out.println(o);
+Lista.forEach.(item->System.out.println(item));
+Lista.forEach System.out::println
+
