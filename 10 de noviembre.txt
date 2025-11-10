@@ -1,0 +1,83 @@
+y hoy puedo seguir con la 15 capaz pero es el mi buen caballo el enojo para mi
+
+a el arriba.
+
+en el test agrega con .add la lista el mi por ser condenado a ser el mejor para siempre
+
+TestApiStream
+TestCollection
+
+Archivo igual o copia .classs de l test
+
+Bueno ya la 21 es ok para el 3 con base de datos también.
+
+si se pone un toque en tabia la de ver todos los videos onda suicidio que estaría bueno quizás 
+plan ser programador ok.
+
+bueno etnoces si hay que ser hiper judío con ese trote de show uso el verme todo antes del final.
+
+que el chango no es.
+
+Estudiar medio ingeniero desde docs. Oracle ( en ingles) la explicación juan carla-
+
+y claro ahora si al proyecto herencia no esta bien pero es medio casi eso
+
+en realidad
+		otro agregue también ( pepe estudiando)
+
+Spring Web (spring-boot-starter-web)
+Thymeleaf (spring-boot-starter-thymeleaf)
+Spring Boot DevTools (spring-boot-devtools)
+MariaDB Driver (mariadb-java-client)
+Lombok (projectlombok)
+Spring Boot Test (spring-boot-starter-test)
+SQLite JDBC (sqlite-jdbc)
+
+si adhiero esas que tiene que imprimir va estar ok?
+
+Vehiculos.add(new Auto
+		(new Moto
+		(new tal
+		
+después se le agrega al coso la aplicación al usuario" ordenes para que se ejecuten en la pila.
+Ej de la forma de pensar no hay mas pasajes exception: error... etc.
+
+en base por ej es uno de los mejores usos medio finales por ejemplo irponiendo de a querys … buen crocky( o final)
+
+exception por ej necesita un generador de exception.
+exception necesita un 3er archivo que no es test con un try catch
+
+si uso new arrayList le modifico los valores al atributo
+
+el punto difícil es generar lo que seria la query en teoría y en realidad es una de apiStream
+
+ya ahí es guiarse con las consignas.
+
+
+Base un toque
+es ddl es generar quizas
+dml es cargar los datos
+y queries es las ordenes
+
+sigo con las ultimas a ver como lo termina...
+
+quedémonos en estas medio injustas dándole al mi es gol ya medio que la siguen igual...
+
+Spring Web (spring-boot-starter-web)
+Thymeleaf (spring-boot-starter-thymeleaf)
+Spring Boot DevTools (spring-boot-devtools)
+MariaDB Driver (mariadb-java-client)
+Lombok (projectlombok)
+Spring Boot Test (spring-boot-starter-test)
+SQLite JDBC (sqlite-jdbc) (mismas dependencias)
+
+claro habría que videar la copia capaz tipo lo test . class la copia ya quedaría.
+
+el otro que me intereza es el mi de ayer todas mis mujeres podemos verse
+
+el 27 se compone de una vuelta mas sobre la totalidad de archivos que se requieren
+
+hay un archivo mas requerido que es el de app(?) termina con aplicationTest
+
+testea ya a nivel de Carlos el que sigue me parece que lo cruza y dice basta este es el nuestro.
+
